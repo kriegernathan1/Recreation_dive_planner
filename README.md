@@ -1,8 +1,6 @@
 # Recreation_dive_planner
 ## What is this?
-Recreation_dive_planner is a free and open source program that gives
-divers the ability to plan repeat dives in the same day while following
-recommended decompression limits.
+Recreation_dive_planner is an open source program that assist divers in the use of PADI dive tables. The program help planning for single, double, or multiple dives and will work within the same limits as the PADI dive table to allow for save and fun experience.
 
 ## How to use? 
 For now please use the IDE of your choosing to run dive planner. Currently,
